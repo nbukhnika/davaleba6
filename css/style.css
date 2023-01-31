@@ -2,7 +2,7 @@
     max-width: 1440px;
     width: 100%;
     margin: 0 auto;
-    border: 3px solid rebeccapurple;
+   
 }
 
 /* header */
@@ -48,7 +48,6 @@ section{
     width: 100%;
     margin: 0 auto;
     display: flex;
-    border: 4px solid red;
     gap: 83px;
     padding: 180px 50px 63px 50px;
     background-color: #F2F5F8;
@@ -61,4 +60,20 @@ section{
     margin: 0 auto;
     width: 28%;
     padding: 33px 30px 36px 30px;
+}
+
+/* footer */
+
+footer{
+    width: 100%;
+   background-color: #758bfd;
+   padding: 33px 30px 36px 30px;
+   display: flex;
+}
+
+.search{
+    margin-left: 693px;
+}
+.search1{
+    margin-left: -100px;
 }
